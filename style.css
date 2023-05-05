@@ -1,0 +1,38 @@
+body{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 60px;
+    width: 60px;
+    border: 3px solid black;
+}
+.cima{
+    display: inline-grid;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+.baixo{
+    display: inline-grid;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+#tudo{
+    position: absolute;
+    bottom: 100px;
+    right: 460px;
+}
+h1{
+    position: absolute;
+    right: 530px;
+}
+#botao{
+    height: 60px;
+    width: 200px;
+    position: absolute;
+    right: 565px;
+    top: 350px;
+}
